@@ -1,0 +1,1 @@
+# NextJs_getStaticProps_getStaticPaths
